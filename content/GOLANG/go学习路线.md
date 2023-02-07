@@ -1,7 +1,7 @@
 ```json
 {
     "date":"2023.02.07 15:38",
-    "tags": ["BLOG"，"GOLANG", "转载"],
+    "tags": ["BLOG","GOLANG","转载"],
     "author": "yongxinz"
 }
 ```

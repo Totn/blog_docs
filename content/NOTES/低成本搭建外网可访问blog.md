@@ -1,7 +1,7 @@
 ```json
 {
     "date":"2023.02.07 15:38",
-    "tags": ["BLOG"，"FRP"],
+    "tags": ["BLOG","FRP"],
     "author": "Letotn"
 }
 ```
