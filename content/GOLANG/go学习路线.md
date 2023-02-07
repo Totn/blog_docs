@@ -5,7 +5,10 @@
     "author": "yongxinz"
 }
 ```
+
 (转载文章, 来源: [https://github.com/yongxinz/gopher](https://github.com/yongxinz/gopher))
+
+---
 
 Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源。
 
